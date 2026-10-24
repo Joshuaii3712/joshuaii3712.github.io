@@ -12,3 +12,4 @@ end
 
 gem 'kramdown'
 gem 'kramdown-parser-gfm'
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

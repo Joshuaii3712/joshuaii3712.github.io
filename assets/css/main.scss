@@ -36,3 +36,15 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.masthead__inner-wrap {
+  position: relative;
+}
+
+#theme-toggle {
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  margin: 0;
+}
