@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Master's student in [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) at [POSTECH](https://www.postech.ac.kr/eng/index.do). I work with [Prof. Eunkyung Jo](https://eunkyungjo.com/) in [the Health and Human-Computer Interaction (H2CI) Lab](https://h2ci-lab.com/).
+Hi, I am a Master's student in [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) at [POSTECH](https://www.postech.ac.kr/eng/index.do). I work with [Prof. Eunkyung Jo](https://eunkyungjo.com/) in the [Health and Human-Computer Interaction (H2CI) Lab](https://h2ci-lab.com/).
 
 My research focuses on Human-Computer Interaction (HCI) and human-centered AI, particularly agentic AI for personalized mental health interventions. I am interested in designing intelligent interactive systems that adapt to individual needs and provide meaningful, personalized support.
 
